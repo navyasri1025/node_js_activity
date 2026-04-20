@@ -1,14 +1,14 @@
-# node_js_activity
-# Smart Student Profile (Full Stack Project)
+# Smart Student Profile (Full Stack)
 
 ## Features
-- Load default student data
+- Load student data
 - Display profile
 - Edit and update details
 
 ## Tech Stack
-- Frontend: React
-- Backend: Node.js + Express
+- React
+- Node.js
+- Express
 
 ## Run Backend
 cd backend
